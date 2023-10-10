@@ -17,5 +17,6 @@ let falsyValue = 0;
 truthyValue = Boolean(truthyValue); //Converting String to Boolean
 falsyValue = Boolean(falsyValue); //Converting to Boolean
 console.log(truthyValue);
-console.log(falsyValue);
+
+
 
